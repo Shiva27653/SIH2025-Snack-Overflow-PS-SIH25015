@@ -7,7 +7,7 @@
 
 For too long, farmers have been trapped in a cycle of **blanket spraying**—wasting chemicals, harming the environment, and still losing crops to disease. Our project, the **Smart Spraying Pod**, is an intelligent, portable system designed to end this inefficiency.
 
-This repository contains the **AI and Machine Learning core** that powers the pod's intelligence. Instead of treating a field like a canvas, our AI treats it like a living ecosystem, enabling a future where every plant receives exactly what it needs, precisely when it needs it.
+This repository contains the **AI and Machine Learning core** that powers the pod's intelligence.
 
 
 
